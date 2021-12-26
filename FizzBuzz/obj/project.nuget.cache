@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3sez4d9+uO8Jl0RTobrhNqZIa2yGDQeGWXjDTA5qY1Ma8xpmjQ+Ntd3m5kNCqAsHyYOKQSSe4T6tDXQKaMJP4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elima\\Assorted C# Files\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elima\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
